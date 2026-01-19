@@ -40,13 +40,12 @@ Prerequisites:
 `ash
 git clone https://github.com/Nizath-Mohammed/MACHINE-LEARNING-PROJECT.git
 cd MACHINE-LEARNING-PROJECT
-# add setup steps here
 `
 
+
+
 ## Usage
-`ash
-# add usage commands here
-`
+
 
 ## Scripts
 - Document useful scripts or commands.
